@@ -1,0 +1,5 @@
+1000                 #number of stos
+1.0               # spectorRadius
+90.0e0            #coupling applied field angle (theta) (deg)
+0.0e0             #coupling applied field angle (phi) (deg)
+0                 #seed

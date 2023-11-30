@@ -1,0 +1,832 @@
+2023-05-23 10:21:29,097 INFO root :Start cluculation: 1684804889.097784System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:21:29,897 INFO root :total time: 0.8027257919311523
+2023-05-23 10:21:30,743 INFO root :Start cluculation: 1684804890.7437987System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:21:31,669 INFO root :total time: 0.9302060604095459
+2023-05-23 10:21:32,254 INFO root :Start cluculation: 1684804892.2541556System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:21:35,006 INFO root :total time: 2.761864185333252
+2023-05-23 10:21:37,003 INFO root :Start cluculation: 1684804897.0038664System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:21:41,663 INFO root :total time: 5.46242094039917
+2023-05-23 10:24:08,522 INFO root :Start cluculation: 1684805048.5221212System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:24:09,309 INFO root :total time: 0.7891688346862793
+2023-05-23 10:24:10,019 INFO root :Start cluculation: 1684805050.0197632System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:24:10,959 INFO root :total time: 0.9422111511230469
+2023-05-23 10:24:11,525 INFO root :Start cluculation: 1684805051.5251007System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:24:14,296 INFO root :total time: 2.779811382293701
+2023-05-23 10:24:16,280 INFO root :Start cluculation: 1684805056.2805216System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:24:20,870 INFO root :total time: 5.389223337173462
+2023-05-23 10:29:53,392 INFO root :Start cluculation: 1684805393.3927784System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:29:54,182 INFO root :total time: 0.7911777496337891
+2023-05-23 10:29:54,905 INFO root :Start cluculation: 1684805394.9057004System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:29:55,709 INFO root :total time: 0.8051807880401611
+2023-05-23 10:29:56,197 INFO root :Start cluculation: 1684805396.1976895System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:29:56,996 INFO root :total time: 0.8001792430877686
+2023-05-23 10:29:57,501 INFO root :Start cluculation: 1684805397.50164System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:29:58,298 INFO root :total time: 0.7981789112091064
+2023-05-23 10:29:58,790 INFO root :Start cluculation: 1684805398.790976System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:29:59,590 INFO root :total time: 0.8001794815063477
+2023-05-23 10:30:00,101 INFO root :Start cluculation: 1684805400.101544System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:30:00,896 INFO root :total time: 0.7971782684326172
+2023-05-23 10:30:01,416 INFO root :Start cluculation: 1684805401.4168384System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:30:02,212 INFO root :total time: 0.7961783409118652
+2023-05-23 10:30:02,708 INFO root :Start cluculation: 1684805402.708294System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:30:03,503 INFO root :total time: 0.7961785793304443
+2023-05-23 10:30:04,032 INFO root :Start cluculation: 1684805404.0327866System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:30:04,825 INFO root :total time: 0.794177770614624
+2023-05-23 10:30:05,310 INFO root :Start cluculation: 1684805405.3106658System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:30:06,102 INFO root :total time: 0.7931785583496094
+2023-05-23 10:31:20,277 INFO root :Start cluculation: 1684805480.2778134System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:21,071 INFO root :total time: 0.7961781024932861
+2023-05-23 10:31:21,791 INFO root :Start cluculation: 1684805481.7916267System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:22,592 INFO root :total time: 0.8031797409057617
+2023-05-23 10:31:23,071 INFO root :Start cluculation: 1684805483.0715394System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:23,873 INFO root :total time: 0.8031799793243408
+2023-05-23 10:31:24,373 INFO root :Start cluculation: 1684805484.3731358System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:25,174 INFO root :total time: 0.8021798133850098
+2023-05-23 10:31:25,658 INFO root :Start cluculation: 1684805485.6585274System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:26,453 INFO root :total time: 0.7961783409118652
+2023-05-23 10:31:26,937 INFO root :Start cluculation: 1684805486.937829System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:27,735 INFO root :total time: 0.7981786727905273
+2023-05-23 10:31:28,214 INFO root :Start cluculation: 1684805488.2147384System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:29,011 INFO root :total time: 0.7981789112091064
+2023-05-23 10:31:29,496 INFO root :Start cluculation: 1684805489.496764System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:30,297 INFO root :total time: 0.8021795749664307
+2023-05-23 10:31:30,817 INFO root :Start cluculation: 1684805490.81727System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:31,611 INFO root :total time: 0.795177698135376
+2023-05-23 10:31:32,097 INFO root :Start cluculation: 1684805492.097557System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:32,894 INFO root :total time: 0.7991786003112793
+2023-05-23 10:31:50,032 INFO root :Start cluculation: 1684805510.0323317System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:50,835 INFO root :total time: 0.805180549621582
+2023-05-23 10:31:51,558 INFO root :Start cluculation: 1684805511.5586734System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:52,359 INFO root :total time: 0.8021798133850098
+2023-05-23 10:31:52,849 INFO root :Start cluculation: 1684805512.849963System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:53,673 INFO root :total time: 0.8241848945617676
+2023-05-23 10:31:54,184 INFO root :Start cluculation: 1684805514.184262System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:55,000 INFO root :total time: 0.8181829452514648
+2023-05-23 10:31:55,494 INFO root :Start cluculation: 1684805515.494583System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:56,306 INFO root :total time: 0.8141825199127197
+2023-05-23 10:31:56,812 INFO root :Start cluculation: 1684805516.8128781System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:57,622 INFO root :total time: 0.8101818561553955
+2023-05-23 10:31:58,124 INFO root :Start cluculation: 1684805518.124172System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:31:58,967 INFO root :total time: 0.8441886901855469
+2023-05-23 10:31:59,478 INFO root :Start cluculation: 1684805519.4785006System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:00,281 INFO root :total time: 0.8041801452636719
+2023-05-23 10:32:00,815 INFO root :Start cluculation: 1684805520.8158004System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:01,612 INFO root :total time: 0.7981793880462646
+2023-05-23 10:32:02,102 INFO root :Start cluculation: 1684805522.1023307System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:02,899 INFO root :total time: 0.7981784343719482
+2023-05-23 10:32:34,237 INFO root :Start cluculation: 1684805554.237756System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:35,021 INFO root :total time: 0.7851758003234863
+2023-05-23 10:32:35,741 INFO root :Start cluculation: 1684805555.7411315System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:36,535 INFO root :total time: 0.7951779365539551
+2023-05-23 10:32:37,016 INFO root :Start cluculation: 1684805557.0167878System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:37,806 INFO root :total time: 0.7911767959594727
+2023-05-23 10:32:38,308 INFO root :Start cluculation: 1684805558.3086026System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:39,116 INFO root :total time: 0.809180736541748
+2023-05-23 10:32:39,597 INFO root :Start cluculation: 1684805559.5976694System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:40,386 INFO root :total time: 0.7901768684387207
+2023-05-23 10:32:40,864 INFO root :Start cluculation: 1684805560.864953System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:41,659 INFO root :total time: 0.7951781749725342
+2023-05-23 10:32:42,137 INFO root :Start cluculation: 1684805562.1373477System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:42,930 INFO root :total time: 0.7941780090332031
+2023-05-23 10:32:43,410 INFO root :Start cluculation: 1684805563.409633System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:44,204 INFO root :total time: 0.796177864074707
+2023-05-23 10:32:44,721 INFO root :Start cluculation: 1684805564.7219434System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:45,517 INFO root :total time: 0.7961781024932861
+2023-05-23 10:32:46,001 INFO root :Start cluculation: 1684805566.001519System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:32:46,795 INFO root :total time: 0.7951779365539551
+2023-05-23 10:33:11,534 INFO root :Start cluculation: 1684805591.534701System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:12,326 INFO root :total time: 0.7931778430938721
+2023-05-23 10:33:13,036 INFO root :Start cluculation: 1684805593.0366795System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:13,833 INFO root :total time: 0.7981789112091064
+2023-05-23 10:33:14,311 INFO root :Start cluculation: 1684805594.3116982System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:15,103 INFO root :total time: 0.7931773662567139
+2023-05-23 10:33:15,603 INFO root :Start cluculation: 1684805595.6037173System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:16,404 INFO root :total time: 0.8021793365478516
+2023-05-23 10:33:16,885 INFO root :Start cluculation: 1684805596.8844545System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:17,684 INFO root :total time: 0.8011794090270996
+2023-05-23 10:33:18,162 INFO root :Start cluculation: 1684805598.1627405System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:18,961 INFO root :total time: 0.8001792430877686
+2023-05-23 10:33:19,439 INFO root :Start cluculation: 1684805599.4394999System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:20,233 INFO root :total time: 0.7951779365539551
+2023-05-23 10:33:20,711 INFO root :Start cluculation: 1684805600.7117853System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:21,506 INFO root :total time: 0.7961785793304443
+2023-05-23 10:33:22,025 INFO root :Start cluculation: 1684805602.0258145System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:22,824 INFO root :total time: 0.8001790046691895
+2023-05-23 10:33:23,313 INFO root :Start cluculation: 1684805603.3131526System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:24,162 INFO root :total time: 0.8501899242401123
+2023-05-23 10:33:58,295 INFO root :Start cluculation: 1684805638.2950542System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:33:59,090 INFO root :total time: 0.7961783409118652
+2023-05-23 10:33:59,817 INFO root :Start cluculation: 1684805639.8175528System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:00,614 INFO root :total time: 0.7981786727905273
+2023-05-23 10:34:01,093 INFO root :Start cluculation: 1684805641.0938377System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:01,893 INFO root :total time: 0.8001782894134521
+2023-05-23 10:34:02,393 INFO root :Start cluculation: 1684805642.3936853System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:03,193 INFO root :total time: 0.8011794090270996
+2023-05-23 10:34:03,676 INFO root :Start cluculation: 1684805643.6762972System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:04,476 INFO root :total time: 0.8011794090270996
+2023-05-23 10:34:04,973 INFO root :Start cluculation: 1684805644.9735882System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:05,778 INFO root :total time: 0.8061802387237549
+2023-05-23 10:34:06,264 INFO root :Start cluculation: 1684805646.264947System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:07,070 INFO root :total time: 0.8061802387237549
+2023-05-23 10:34:07,564 INFO root :Start cluculation: 1684805647.5647538System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:08,359 INFO root :total time: 0.7961785793304443
+2023-05-23 10:34:08,886 INFO root :Start cluculation: 1684805648.8863838System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:09,689 INFO root :total time: 0.804180383682251
+2023-05-23 10:34:10,174 INFO root :Start cluculation: 1684805650.174688System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:10,970 INFO root :total time: 0.7981791496276855
+2023-05-23 10:34:16,367 INFO root :Start cluculation: 1684805656.3671925System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:17,158 INFO root :total time: 0.7921774387359619
+2023-05-23 10:34:17,890 INFO root :Start cluculation: 1684805657.8907292System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:18,700 INFO root :total time: 0.8111815452575684
+2023-05-23 10:34:19,184 INFO root :Start cluculation: 1684805659.1847873System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:19,993 INFO root :total time: 0.8101813793182373
+2023-05-23 10:34:20,493 INFO root :Start cluculation: 1684805660.4937677System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:21,305 INFO root :total time: 0.8131821155548096
+2023-05-23 10:34:21,787 INFO root :Start cluculation: 1684805661.7878902System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:22,596 INFO root :total time: 0.8091809749603271
+2023-05-23 10:34:23,081 INFO root :Start cluculation: 1684805663.081473System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:23,891 INFO root :total time: 0.8111813068389893
+2023-05-23 10:34:24,373 INFO root :Start cluculation: 1684805664.3737628System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:25,186 INFO root :total time: 0.8141822814941406
+2023-05-23 10:34:25,669 INFO root :Start cluculation: 1684805665.6697187System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:26,476 INFO root :total time: 0.8091812133789062
+2023-05-23 10:34:26,999 INFO root :Start cluculation: 1684805666.9990165System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:27,809 INFO root :total time: 0.8111813068389893
+2023-05-23 10:34:28,288 INFO root :Start cluculation: 1684805668.2883055System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:29,096 INFO root :total time: 0.8091814517974854
+2023-05-23 10:34:29,582 INFO root :Start cluculation: 1684805669.5817857System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:30,520 INFO root :total time: 0.9402098655700684
+2023-05-23 10:34:31,093 INFO root :Start cluculation: 1684805671.093583System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:32,044 INFO root :total time: 0.9522128105163574
+2023-05-23 10:34:32,632 INFO root :Start cluculation: 1684805672.6323705System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:33,569 INFO root :total time: 0.9392101764678955
+2023-05-23 10:34:34,206 INFO root :Start cluculation: 1684805674.2068422System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:35,146 INFO root :total time: 0.9402105808258057
+2023-05-23 10:34:35,743 INFO root :Start cluculation: 1684805675.7435312System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:36,732 INFO root :total time: 0.9912054538726807
+2023-05-23 10:34:37,351 INFO root :Start cluculation: 1684805677.3518918System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:38,307 INFO root :total time: 0.956214189529419
+2023-05-23 10:34:38,888 INFO root :Start cluculation: 1684805678.8884494System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:39,853 INFO root :total time: 0.9662168025970459
+2023-05-23 10:34:40,511 INFO root :Start cluculation: 1684805680.5118132System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:41,454 INFO root :total time: 0.9432117938995361
+2023-05-23 10:34:42,022 INFO root :Start cluculation: 1684805682.0225823System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:42,973 INFO root :total time: 0.9522132873535156
+2023-05-23 10:34:43,549 INFO root :Start cluculation: 1684805683.5499249System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:44,508 INFO root :total time: 0.959214448928833
+2023-05-23 10:34:45,108 INFO root :Start cluculation: 1684805685.1082728System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:48,647 INFO root :total time: 3.547816753387451
+2023-05-23 10:34:49,952 INFO root :Start cluculation: 1684805689.9524186System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:53,464 INFO root :total time: 3.522834300994873
+2023-05-23 10:34:54,656 INFO root :Start cluculation: 1684805694.6568258System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:34:58,116 INFO root :total time: 3.4707765579223633
+2023-05-23 10:34:59,311 INFO root :Start cluculation: 1684805699.3119807System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:35:02,796 INFO root :total time: 3.4952309131622314
+2023-05-23 10:35:04,139 INFO root :Start cluculation: 1684805704.1390266System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:35:07,639 INFO root :total time: 3.5099592208862305
+2023-05-23 10:35:08,835 INFO root :Start cluculation: 1684805708.835687System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:35:12,371 INFO root :total time: 3.546743869781494
+2023-05-23 10:35:13,639 INFO root :Start cluculation: 1684805713.6399274System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:35:17,189 INFO root :total time: 3.56087589263916
+2023-05-23 10:35:18,580 INFO root :Start cluculation: 1684805718.580721System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:35:22,113 INFO root :total time: 3.54341197013855
+2023-05-23 10:35:23,301 INFO root :Start cluculation: 1684805723.301932System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:35:26,821 INFO root :total time: 3.53112530708313
+2023-05-23 10:35:28,027 INFO root :Start cluculation: 1684805728.027206System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:35:31,644 INFO root :total time: 3.6268310546875
+2023-05-23 10:35:33,775 INFO root :Start cluculation: 1684805733.7751172System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:35:39,115 INFO root :total time: 6.2764060497283936
+2023-05-23 10:35:47,263 INFO root :Start cluculation: 1684805747.2630105System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:35:52,686 INFO root :total time: 6.366611480712891
+2023-05-23 10:36:00,606 INFO root :Start cluculation: 1684805760.6062355System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:36:06,085 INFO root :total time: 6.414050579071045
+2023-05-23 10:36:14,133 INFO root :Start cluculation: 1684805774.133949System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:36:19,609 INFO root :total time: 6.396442413330078
+2023-05-23 10:36:27,090 INFO root :Start cluculation: 1684805787.0902357System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:36:32,590 INFO root :total time: 6.424439430236816
+2023-05-23 10:36:40,778 INFO root :Start cluculation: 1684805800.7785246System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:36:46,351 INFO root :total time: 6.5336079597473145
+2023-05-23 10:36:54,690 INFO root :Start cluculation: 1684805814.6904268System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:37:00,313 INFO root :total time: 6.5507659912109375
+2023-05-23 10:37:07,793 INFO root :Start cluculation: 1684805827.7932508System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:37:13,448 INFO root :total time: 6.594477415084839
+2023-05-23 10:37:22,109 INFO root :Start cluculation: 1684805842.1098742System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:37:27,824 INFO root :total time: 6.649489641189575
+2023-05-23 10:37:35,315 INFO root :Start cluculation: 1684805855.3158514System: coupledLlg, Solver: rungeKutta
+2023-05-23 10:37:41,084 INFO root :total time: 6.720134973526001
+2023-05-23 12:10:38,425 INFO root :Start cluculation: 1684811438.4257715System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:39,217 INFO root :total time: 0.7941811084747314
+2023-05-23 12:10:39,966 INFO root :Start cluculation: 1684811439.966117System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:40,765 INFO root :total time: 0.8011791706085205
+2023-05-23 12:10:41,247 INFO root :Start cluculation: 1684811441.2477107System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:42,048 INFO root :total time: 0.802487850189209
+2023-05-23 12:10:42,553 INFO root :Start cluculation: 1684811442.5535762System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:43,356 INFO root :total time: 0.804180383682251
+2023-05-23 12:10:43,839 INFO root :Start cluculation: 1684811443.8398647System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:44,637 INFO root :total time: 0.7981789112091064
+2023-05-23 12:10:45,117 INFO root :Start cluculation: 1684811445.117179System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:45,905 INFO root :total time: 0.7891764640808105
+2023-05-23 12:10:46,386 INFO root :Start cluculation: 1684811446.3864632System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:47,185 INFO root :total time: 0.8001792430877686
+2023-05-23 12:10:47,664 INFO root :Start cluculation: 1684811447.6647499System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:48,464 INFO root :total time: 0.8021786212921143
+2023-05-23 12:10:48,984 INFO root :Start cluculation: 1684811448.9844265System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:49,777 INFO root :total time: 0.795177698135376
+2023-05-23 12:10:50,262 INFO root :Start cluculation: 1684811450.262865System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:51,068 INFO root :total time: 0.8071811199188232
+2023-05-23 12:10:51,551 INFO root :Start cluculation: 1684811451.5511537System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:52,471 INFO root :total time: 0.9232070446014404
+2023-05-23 12:10:53,035 INFO root :Start cluculation: 1684811453.0354865System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:53,961 INFO root :total time: 0.9282078742980957
+2023-05-23 12:10:54,524 INFO root :Start cluculation: 1684811454.5238197System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:55,447 INFO root :total time: 0.9252068996429443
+2023-05-23 12:10:56,065 INFO root :Start cluculation: 1684811456.0653791System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:56,987 INFO root :total time: 0.9242072105407715
+2023-05-23 12:10:57,551 INFO root :Start cluculation: 1684811457.5517116System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:58,481 INFO root :total time: 0.9322090148925781
+2023-05-23 12:10:59,053 INFO root :Start cluculation: 1684811459.0538125System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:10:59,979 INFO root :total time: 0.9272069931030273
+2023-05-23 12:11:00,549 INFO root :Start cluculation: 1684811460.5494103System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:01,469 INFO root :total time: 0.9222066402435303
+2023-05-23 12:11:02,117 INFO root :Start cluculation: 1684811462.1178365System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:03,040 INFO root :total time: 0.9242074489593506
+2023-05-23 12:11:03,606 INFO root :Start cluculation: 1684811463.6061704System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:04,533 INFO root :total time: 0.9292080402374268
+2023-05-23 12:11:05,099 INFO root :Start cluculation: 1684811465.0997598System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:06,029 INFO root :total time: 0.932208776473999
+2023-05-23 12:11:06,608 INFO root :Start cluculation: 1684811466.6082797System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:09,412 INFO root :total time: 2.8189175128936768
+2023-05-23 12:11:10,717 INFO root :Start cluculation: 1684811470.7167792System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:13,550 INFO root :total time: 2.8486924171447754
+2023-05-23 12:11:14,752 INFO root :Start cluculation: 1684811474.7527368System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:17,589 INFO root :total time: 2.85180926322937
+2023-05-23 12:11:18,804 INFO root :Start cluculation: 1684811478.8048155System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:21,639 INFO root :total time: 2.852687120437622
+2023-05-23 12:11:23,044 INFO root :Start cluculation: 1684811483.0448136System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:25,887 INFO root :total time: 2.857269048690796
+2023-05-23 12:11:27,096 INFO root :Start cluculation: 1684811487.096473System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:29,941 INFO root :total time: 2.8586840629577637
+2023-05-23 12:11:31,155 INFO root :Start cluculation: 1684811491.1554575System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:33,989 INFO root :total time: 2.8516814708709717
+2023-05-23 12:11:35,408 INFO root :Start cluculation: 1684811495.4084523System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:38,286 INFO root :total time: 2.893667221069336
+2023-05-23 12:11:39,543 INFO root :Start cluculation: 1684811499.5433974System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:42,421 INFO root :total time: 2.8946828842163086
+2023-05-23 12:11:43,668 INFO root :Start cluculation: 1684811503.6677577System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:46,555 INFO root :total time: 2.9036705493927
+2023-05-23 12:11:48,580 INFO root :Start cluculation: 1684811508.5802014System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:11:53,452 INFO root :total time: 5.7062788009643555
+2023-05-23 12:12:01,466 INFO root :Start cluculation: 1684811521.4662802System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:12:06,378 INFO root :total time: 5.7332847118377686
+2023-05-23 12:12:14,199 INFO root :Start cluculation: 1684811534.1999454System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:12:19,123 INFO root :total time: 5.737285614013672
+2023-05-23 12:12:27,056 INFO root :Start cluculation: 1684811547.056341System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:12:32,024 INFO root :total time: 5.798299074172974
+2023-05-23 12:12:39,403 INFO root :Start cluculation: 1684811559.403528System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:18:10,760 INFO root :Start cluculation: 1684811890.7606792System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:18:11,556 INFO root :total time: 0.7981786727905273
+2023-05-23 12:18:12,279 INFO root :Start cluculation: 1684811892.2796025System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:18:13,083 INFO root :total time: 0.8064334392547607
+2023-05-23 12:18:13,569 INFO root :Start cluculation: 1684811893.569071System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:18:14,374 INFO root :total time: 0.8061800003051758
+2023-05-23 12:18:14,879 INFO root :Start cluculation: 1684811894.8795638System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:18:15,682 INFO root :total time: 0.804180383682251
+2023-05-23 12:18:16,173 INFO root :Start cluculation: 1684811896.1733932System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:18:16,977 INFO root :total time: 0.8057217597961426
+2023-05-23 12:18:17,459 INFO root :Start cluculation: 1684811897.4597027System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:18:18,262 INFO root :total time: 0.8041794300079346
+2023-05-23 12:18:18,746 INFO root :Start cluculation: 1684811898.7468796System: coupledLlg, Solver: rungeKutta
+2023-05-23 12:18:19,551 INFO root :total time: 0.8041806221008301
+2023-05-23 12:18:20,046 INFO root :Start cluculation: 1684811900.0461705System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:55:15,244 INFO root :Start cluculation: 1684835715.2441263System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:55:16,032 INFO root :total time: 0.8001790046691895
+2023-05-23 18:55:16,783 INFO root :Start cluculation: 1684835716.783471System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:55:17,593 INFO root :total time: 0.8121814727783203
+2023-05-23 18:55:18,087 INFO root :Start cluculation: 1684835718.0877638System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:21,904 INFO root :Start cluculation: 1684835841.9041574System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:22,697 INFO root :total time: 0.7941775321960449
+2023-05-23 18:57:23,414 INFO root :Start cluculation: 1684835843.4144957System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:24,220 INFO root :total time: 0.8081808090209961
+2023-05-23 18:57:24,705 INFO root :Start cluculation: 1684835844.7047849System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:25,520 INFO root :total time: 0.8171825408935547
+2023-05-23 18:57:26,034 INFO root :Start cluculation: 1684835846.0335429System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:26,862 INFO root :total time: 0.8301858901977539
+2023-05-23 18:57:27,352 INFO root :Start cluculation: 1684835847.352839System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:28,172 INFO root :total time: 0.8201837539672852
+2023-05-23 18:57:28,665 INFO root :Start cluculation: 1684835848.6654487System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:29,479 INFO root :total time: 0.8151826858520508
+2023-05-23 18:57:29,976 INFO root :Start cluculation: 1684835849.9767427System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:30,792 INFO root :total time: 0.817183256149292
+2023-05-23 18:57:31,285 INFO root :Start cluculation: 1684835851.2850358System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:32,098 INFO root :total time: 0.8141825199127197
+2023-05-23 18:57:32,615 INFO root :Start cluculation: 1684835852.6154609System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:33,423 INFO root :total time: 0.8091809749603271
+2023-05-23 18:57:33,908 INFO root :Start cluculation: 1684835853.9087503System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:34,717 INFO root :total time: 0.8101816177368164
+2023-05-23 18:57:35,200 INFO root :Start cluculation: 1684835855.2004738System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:36,147 INFO root :total time: 0.9492127895355225
+2023-05-23 18:57:36,717 INFO root :Start cluculation: 1684835856.717814System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:37,665 INFO root :total time: 0.9482121467590332
+2023-05-23 18:57:38,231 INFO root :Start cluculation: 1684835858.2315633System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:39,178 INFO root :total time: 0.9482121467590332
+2023-05-23 18:57:39,804 INFO root :Start cluculation: 1684835859.8049157System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:40,756 INFO root :total time: 0.9522137641906738
+2023-05-23 18:57:41,346 INFO root :Start cluculation: 1684835861.3463008System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:42,292 INFO root :total time: 0.9472124576568604
+2023-05-23 18:57:42,879 INFO root :Start cluculation: 1684835862.8796446System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:43,854 INFO root :total time: 0.9762189388275146
+2023-05-23 18:57:44,423 INFO root :Start cluculation: 1684835864.4230552System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:45,372 INFO root :total time: 0.9502129554748535
+2023-05-23 18:57:46,037 INFO root :Start cluculation: 1684835866.0374167System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:46,990 INFO root :total time: 0.9552135467529297
+2023-05-23 18:57:47,559 INFO root :Start cluculation: 1684835867.5597575System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:48,504 INFO root :total time: 0.9472119808197021
+2023-05-23 18:57:49,069 INFO root :Start cluculation: 1684835869.0690958System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:50,011 INFO root :total time: 0.9432110786437988
+2023-05-23 18:57:50,587 INFO root :Start cluculation: 1684835870.5876722System: coupledLlg, Solver: rungeKutta
+2023-05-23 18:57:53,434 INFO root :total time: 2.855639934539795
+2023-05-23 19:01:13,108 INFO root :Start cluculation: 1684836073.1087255System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:13,857 INFO root :total time: 0.7501685619354248
+2023-05-23 19:01:14,588 INFO root :Start cluculation: 1684836074.588057System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:15,348 INFO root :total time: 0.7611706256866455
+2023-05-23 19:01:15,835 INFO root :Start cluculation: 1684836075.835818System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:16,587 INFO root :total time: 0.7531688213348389
+2023-05-23 19:01:17,096 INFO root :Start cluculation: 1684836077.096221System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:17,849 INFO root :total time: 0.754169225692749
+2023-05-23 19:01:18,348 INFO root :Start cluculation: 1684836078.3485227System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:19,098 INFO root :total time: 0.7511682510375977
+2023-05-23 19:01:19,589 INFO root :Start cluculation: 1684836079.5897803System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:20,343 INFO root :total time: 0.755169153213501
+2023-05-23 19:01:20,835 INFO root :Start cluculation: 1684836080.83576System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:21,585 INFO root :total time: 0.7511682510375977
+2023-05-23 19:01:22,072 INFO root :Start cluculation: 1684836082.0720372System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:22,822 INFO root :total time: 0.7511682510375977
+2023-05-23 19:01:23,348 INFO root :Start cluculation: 1684836083.348673System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:24,109 INFO root :total time: 0.7621705532073975
+2023-05-23 19:01:24,600 INFO root :Start cluculation: 1684836084.6001177System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:25,362 INFO root :total time: 0.7631714344024658
+2023-05-23 19:01:25,849 INFO root :Start cluculation: 1684836085.8496587System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:26,704 INFO root :total time: 0.8571922779083252
+2023-05-23 19:01:27,275 INFO root :Start cluculation: 1684836087.275821System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:28,127 INFO root :total time: 0.8521909713745117
+2023-05-23 19:01:28,693 INFO root :Start cluculation: 1684836088.6938143System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:29,549 INFO root :total time: 0.8561916351318359
+2023-05-23 19:01:30,176 INFO root :Start cluculation: 1684836090.1764557System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:31,040 INFO root :total time: 0.8661940097808838
+2023-05-23 19:01:31,618 INFO root :Start cluculation: 1684836091.6188765System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:32,484 INFO root :total time: 0.8661932945251465
+2023-05-23 19:01:33,060 INFO root :Start cluculation: 1684836093.0608022System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:33,922 INFO root :total time: 0.8631935119628906
+2023-05-23 19:01:34,496 INFO root :Start cluculation: 1684836094.4965515System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:35,360 INFO root :total time: 0.8651940822601318
+2023-05-23 19:01:36,026 INFO root :Start cluculation: 1684836096.0268948System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:36,902 INFO root :total time: 0.876204252243042
+2023-05-23 19:01:37,505 INFO root :Start cluculation: 1684836097.505234System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:38,372 INFO root :total time: 0.868194580078125
+2023-05-23 19:01:38,960 INFO root :Start cluculation: 1684836098.9605598System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:39,874 INFO root :total time: 0.9151656627655029
+2023-05-23 19:01:40,530 INFO root :Start cluculation: 1684836100.5308726System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:43,269 INFO root :total time: 2.747891902923584
+2023-05-23 19:01:44,682 INFO root :Start cluculation: 1684836104.682275System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:47,431 INFO root :total time: 2.7567901611328125
+2023-05-23 19:01:48,728 INFO root :Start cluculation: 1684836108.7286093System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:51,522 INFO root :total time: 2.801713705062866
+2023-05-23 19:01:52,744 INFO root :Start cluculation: 1684836112.7445965System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:55,549 INFO root :total time: 2.8126299381256104
+2023-05-23 19:01:56,906 INFO root :Start cluculation: 1684836116.9066172System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:01:59,631 INFO root :total time: 2.7324342727661133
+2023-05-23 19:02:00,835 INFO root :Start cluculation: 1684836120.8353193System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:02:03,571 INFO root :total time: 2.74469256401062
+2023-05-23 19:02:04,764 INFO root :Start cluculation: 1684836124.7646694System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:02:07,501 INFO root :total time: 2.745004177093506
+2023-05-23 19:02:08,900 INFO root :Start cluculation: 1684836128.900756System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:02:11,635 INFO root :total time: 2.7436318397521973
+2023-05-23 19:02:12,843 INFO root :Start cluculation: 1684836132.843697System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:02:15,581 INFO root :total time: 2.746333122253418
+2023-05-23 19:02:16,782 INFO root :Start cluculation: 1684836136.7827654System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:02:19,539 INFO root :total time: 2.764620304107666
+2023-05-23 19:02:21,550 INFO root :Start cluculation: 1684836141.5490139System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:02:26,137 INFO root :total time: 5.4062111377716064
+2023-05-23 19:02:34,204 INFO root :Start cluculation: 1684836154.204847System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:02:38,775 INFO root :total time: 5.398209810256958
+2023-05-23 19:02:46,640 INFO root :Start cluculation: 1684836166.6401753System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:02:51,249 INFO root :total time: 5.461223363876343
+2023-05-23 19:02:59,305 INFO root :Start cluculation: 1684836179.3052216System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:03:03,984 INFO root :total time: 5.516236066818237
+2023-05-23 19:03:11,775 INFO root :Start cluculation: 1684836191.7752242System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:03:16,476 INFO root :total time: 5.52223801612854
+2023-05-23 19:03:24,955 INFO root :Start cluculation: 1684836204.9551806System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:03:29,738 INFO root :total time: 5.608256101608276
+2023-05-23 19:03:38,082 INFO root :Start cluculation: 1684836218.0824008System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:03:42,884 INFO root :total time: 5.623568534851074
+2023-05-23 19:03:50,423 INFO root :Start cluculation: 1684836230.4231708System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:03:55,240 INFO root :total time: 5.644264459609985
+2023-05-23 19:04:03,831 INFO root :Start cluculation: 1684836243.8314686System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:04:08,727 INFO root :total time: 5.718282461166382
+2023-05-23 19:04:16,162 INFO root :Start cluculation: 1684836256.1625142System: coupledLlg, Solver: rungeKutta
+2023-05-23 19:04:21,114 INFO root :total time: 5.772292852401733
+2023-05-24 16:51:04,749 INFO root :Start cluculation: 1684914664.748681System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:51:06,113 INFO root :total time: 1.370307207107544
+2023-05-24 16:54:06,400 INFO root :Start cluculation: 1684914846.4002528System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:54:07,159 INFO root :total time: 0.7611701488494873
+2023-05-24 16:54:07,905 INFO root :Start cluculation: 1684914847.9057777System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:54:08,667 INFO root :total time: 0.7641708850860596
+2023-05-24 16:54:09,155 INFO root :Start cluculation: 1684914849.1555328System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:27,434 INFO root :Start cluculation: 1684914987.434617System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:28,175 INFO root :total time: 0.7431666851043701
+2023-05-24 16:56:28,912 INFO root :Start cluculation: 1684914988.9120944System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:29,684 INFO root :total time: 0.7741734981536865
+2023-05-24 16:56:30,178 INFO root :Start cluculation: 1684914990.1783779System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:30,948 INFO root :total time: 0.7711727619171143
+2023-05-24 16:56:31,468 INFO root :Start cluculation: 1684914991.468667System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:32,218 INFO root :total time: 0.7511682510375977
+2023-05-24 16:56:32,714 INFO root :Start cluculation: 1684914992.7149463System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:33,484 INFO root :total time: 0.7701723575592041
+2023-05-24 16:56:33,978 INFO root :Start cluculation: 1684914993.9782295System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:34,732 INFO root :total time: 0.7551689147949219
+2023-05-24 16:56:35,233 INFO root :Start cluculation: 1684914995.2335944System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:36,041 INFO root :total time: 0.8091812133789062
+2023-05-24 16:56:36,531 INFO root :Start cluculation: 1684914996.5312893System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:37,283 INFO root :total time: 0.7531678676605225
+2023-05-24 16:56:37,804 INFO root :Start cluculation: 1684914997.8045745System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:38,556 INFO root :total time: 0.7531685829162598
+2023-05-24 16:56:39,038 INFO root :Start cluculation: 1684914999.038851System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:39,785 INFO root :total time: 0.7471671104431152
+2023-05-24 16:56:40,276 INFO root :Start cluculation: 1684915000.276128System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:41,138 INFO root :total time: 0.8631935119628906
+2023-05-24 16:56:41,706 INFO root :Start cluculation: 1684915001.7064972System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:42,558 INFO root :total time: 0.8541913032531738
+2023-05-24 16:56:43,126 INFO root :Start cluculation: 1684915003.126816System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:43,984 INFO root :total time: 0.8578927516937256
+2023-05-24 16:56:44,600 INFO root :Start cluculation: 1684915004.6008966System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:45,458 INFO root :total time: 0.8581922054290771
+2023-05-24 16:56:46,026 INFO root :Start cluculation: 1684915006.026216System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:46,877 INFO root :total time: 0.8521902561187744
+2023-05-24 16:56:47,446 INFO root :Start cluculation: 1684915007.446534System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:48,302 INFO root :total time: 0.858191967010498
+2023-05-24 16:56:48,872 INFO root :Start cluculation: 1684915008.8728535System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:49,733 INFO root :total time: 0.8611929416656494
+2023-05-24 16:56:50,375 INFO root :Start cluculation: 1684915010.375558System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:51,231 INFO root :total time: 0.8571915626525879
+2023-05-24 16:56:51,802 INFO root :Start cluculation: 1684915011.8027387System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:52,665 INFO root :total time: 0.8641932010650635
+2023-05-24 16:56:53,234 INFO root :Start cluculation: 1684915013.2348914System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:54,097 INFO root :total time: 0.8631935119628906
+2023-05-24 16:56:54,679 INFO root :Start cluculation: 1684915014.6793787System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:56:57,353 INFO root :total time: 2.6823062896728516
+2023-05-24 16:56:58,659 INFO root :Start cluculation: 1684915018.6596086System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:01,375 INFO root :total time: 2.725022315979004
+2023-05-24 16:57:02,560 INFO root :Start cluculation: 1684915022.5603957System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:05,249 INFO root :total time: 2.697216749191284
+2023-05-24 16:57:06,443 INFO root :Start cluculation: 1684915026.443879System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:09,120 INFO root :total time: 2.6888368129730225
+2023-05-24 16:57:10,460 INFO root :Start cluculation: 1684915030.460013System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:13,161 INFO root :total time: 2.7097041606903076
+2023-05-24 16:57:14,337 INFO root :Start cluculation: 1684915034.3376138System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:17,044 INFO root :total time: 2.7141237258911133
+2023-05-24 16:57:18,225 INFO root :Start cluculation: 1684915038.225378System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:20,906 INFO root :total time: 2.6901352405548096
+2023-05-24 16:57:22,289 INFO root :Start cluculation: 1684915042.2895782System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:24,978 INFO root :total time: 2.6967875957489014
+2023-05-24 16:57:26,159 INFO root :Start cluculation: 1684915046.1598718System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:28,865 INFO root :total time: 2.7146687507629395
+2023-05-24 16:57:30,058 INFO root :Start cluculation: 1684915050.0586011System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:32,745 INFO root :total time: 2.6954190731048584
+2023-05-24 16:57:34,731 INFO root :Start cluculation: 1684915054.731687System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:39,307 INFO root :total time: 5.3884968757629395
+2023-05-24 16:57:47,219 INFO root :Start cluculation: 1684915067.2191746System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:57:51,851 INFO root :total time: 5.461223125457764
+2023-05-24 16:57:59,613 INFO root :Start cluculation: 1684915079.613266System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:58:04,488 INFO root :total time: 5.769313335418701
+2023-05-24 16:58:12,307 INFO root :Start cluculation: 1684915092.3071866System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:58:17,049 INFO root :total time: 5.563246250152588
+2023-05-24 16:58:24,371 INFO root :Start cluculation: 1684915104.371184System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:58:29,113 INFO root :total time: 5.559245586395264
+2023-05-24 16:58:37,143 INFO root :Start cluculation: 1684915117.1431837System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:58:41,928 INFO root :total time: 5.6072564125061035
+2023-05-24 16:58:50,224 INFO root :Start cluculation: 1684915130.2243865System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:58:55,012 INFO root :total time: 5.69329571723938
+2023-05-24 16:59:02,360 INFO root :Start cluculation: 1684915142.3601828System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:59:07,200 INFO root :total time: 5.662268877029419
+2023-05-24 16:59:15,623 INFO root :Start cluculation: 1684915155.6236339System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:59:20,484 INFO root :total time: 5.666269779205322
+2023-05-24 16:59:27,805 INFO root :Start cluculation: 1684915167.8056176System: coupledLlg, Solver: rungeKutta
+2023-05-24 16:59:32,817 INFO root :total time: 5.832314968109131
+2023-05-24 17:25:12,225 INFO root :Start cluculation: 1684916712.225775System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:25:12,976 INFO root :total time: 0.7541677951812744
+2023-05-24 17:25:13,715 INFO root :Start cluculation: 1684916713.7156053System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:25:14,477 INFO root :total time: 0.7631707191467285
+2023-05-24 17:25:14,975 INFO root :Start cluculation: 1684916714.9758875System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:25:15,738 INFO root :total time: 0.7631711959838867
+2023-05-24 17:37:02,147 INFO root :Start cluculation: 1684917422.1478722System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:37:21,459 INFO root :Start cluculation: 1684917441.4598794System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:38:23,428 INFO root :Start cluculation: 1684917503.428878System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:38:27,925 INFO root :total time: 4.49800705909729
+2023-05-24 17:38:28,648 INFO root :Start cluculation: 1684917508.6480467System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:38:33,161 INFO root :total time: 4.5141847133636475
+2023-05-24 17:38:33,650 INFO root :Start cluculation: 1684917513.6503403System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:38:38,150 INFO root :total time: 4.501007795333862
+2023-05-24 17:38:38,660 INFO root :Start cluculation: 1684917518.660463System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:38:43,247 INFO root :total time: 4.5880286693573
+2023-05-24 17:38:43,757 INFO root :Start cluculation: 1684917523.7576046System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:38:48,336 INFO root :total time: 4.580026149749756
+2023-05-24 17:38:48,838 INFO root :Start cluculation: 1684917528.8387432System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:38:53,440 INFO root :total time: 4.604031562805176
+2023-05-24 17:38:53,936 INFO root :Start cluculation: 1684917533.9360251System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:38:58,536 INFO root :total time: 4.601030111312866
+2023-05-24 17:38:59,028 INFO root :Start cluculation: 1684917539.0281663System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:09,259 INFO root :Start cluculation: 1684917669.2592814System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:10,005 INFO root :total time: 0.7481672763824463
+2023-05-24 17:41:10,736 INFO root :Start cluculation: 1684917670.7366116System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:11,499 INFO root :total time: 0.7641713619232178
+2023-05-24 17:41:11,990 INFO root :Start cluculation: 1684917671.9901268System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:12,756 INFO root :total time: 0.7671716213226318
+2023-05-24 17:41:13,269 INFO root :Start cluculation: 1684917673.2694135System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:14,027 INFO root :total time: 0.760169267654419
+2023-05-24 17:41:14,518 INFO root :Start cluculation: 1684917674.5186932System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:15,274 INFO root :total time: 0.7571699619293213
+2023-05-24 17:41:15,765 INFO root :Start cluculation: 1684917675.7659729System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:16,526 INFO root :total time: 0.7621707916259766
+2023-05-24 17:41:17,021 INFO root :Start cluculation: 1684917677.0212538System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:17,776 INFO root :total time: 0.7561695575714111
+2023-05-24 17:41:18,259 INFO root :Start cluculation: 1684917678.259864System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:19,012 INFO root :total time: 0.7531685829162598
+2023-05-24 17:41:19,539 INFO root :Start cluculation: 1684917679.539151System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:20,290 INFO root :total time: 0.7526726722717285
+2023-05-24 17:41:20,777 INFO root :Start cluculation: 1684917680.7779324System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:21,530 INFO root :total time: 0.7531688213348389
+2023-05-24 17:41:22,020 INFO root :Start cluculation: 1684917682.0202286System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:22,876 INFO root :total time: 0.8571920394897461
+2023-05-24 17:41:23,448 INFO root :Start cluculation: 1684917683.4485486System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:24,302 INFO root :total time: 0.8551914691925049
+2023-05-24 17:41:24,873 INFO root :Start cluculation: 1684917684.8738678System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:25,725 INFO root :total time: 0.8521907329559326
+2023-05-24 17:41:26,342 INFO root :Start cluculation: 1684917686.3423982System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:27,191 INFO root :total time: 0.8501906394958496
+2023-05-24 17:41:27,761 INFO root :Start cluculation: 1684917687.7617881System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:28,607 INFO root :total time: 0.8471894264221191
+2023-05-24 17:41:29,176 INFO root :Start cluculation: 1684917689.176105System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:30,029 INFO root :total time: 0.854191780090332
+2023-05-24 17:41:30,601 INFO root :Start cluculation: 1684917690.6014247System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:31,450 INFO root :total time: 0.8501901626586914
+2023-05-24 17:41:32,100 INFO root :Start cluculation: 1684917692.10076System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:32,951 INFO root :total time: 0.8521904945373535
+2023-05-24 17:41:33,520 INFO root :Start cluculation: 1684917693.5200784System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:34,374 INFO root :total time: 0.8552379608154297
+2023-05-24 17:41:34,936 INFO root :Start cluculation: 1684917694.9364414System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:35,787 INFO root :total time: 0.8531913757324219
+2023-05-24 17:41:36,365 INFO root :Start cluculation: 1684917696.3657615System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:39,072 INFO root :total time: 2.7151498794555664
+2023-05-24 17:41:40,369 INFO root :Start cluculation: 1684917700.3692114System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:43,097 INFO root :total time: 2.736358404159546
+2023-05-24 17:41:44,289 INFO root :Start cluculation: 1684917704.289835System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:47,053 INFO root :total time: 2.7718698978424072
+2023-05-24 17:41:48,254 INFO root :Start cluculation: 1684917708.2539725System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:50,982 INFO root :total time: 2.7366974353790283
+2023-05-24 17:41:52,322 INFO root :Start cluculation: 1684917712.3229682System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:55,029 INFO root :total time: 2.715757369995117
+2023-05-24 17:41:56,242 INFO root :Start cluculation: 1684917716.242996System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:41:59,019 INFO root :total time: 2.785700798034668
+2023-05-24 17:42:00,208 INFO root :Start cluculation: 1684917720.2089608System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:42:02,935 INFO root :total time: 2.7346510887145996
+2023-05-24 17:42:04,352 INFO root :Start cluculation: 1684917724.3519256System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:42:07,109 INFO root :total time: 2.7656610012054443
+2023-05-24 17:42:08,324 INFO root :Start cluculation: 1684917728.3248577System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:42:11,026 INFO root :total time: 2.709655284881592
+2023-05-24 17:42:12,212 INFO root :Start cluculation: 1684917732.2127988System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:42:14,977 INFO root :total time: 2.773914337158203
+2023-05-24 17:42:16,976 INFO root :Start cluculation: 1684917736.9758995System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:42:21,566 INFO root :total time: 5.401210069656372
+2023-05-24 17:42:29,555 INFO root :Start cluculation: 1684917749.5559535System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:42:34,139 INFO root :total time: 5.416433334350586
+2023-05-24 17:42:41,984 INFO root :Start cluculation: 1684917761.9841084System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:42:46,670 INFO root :total time: 5.5202367305755615
+2023-05-24 17:42:54,685 INFO root :Start cluculation: 1684917774.6851733System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:44:07,666 INFO root :Start cluculation: 1684917847.666361System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:44:08,413 INFO root :total time: 0.7491669654846191
+2023-05-24 17:44:09,139 INFO root :Start cluculation: 1684917849.1397097System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:44:09,899 INFO root :total time: 0.7611701488494873
+2023-05-24 17:44:10,391 INFO root :Start cluculation: 1684917850.391489System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:44:11,153 INFO root :total time: 0.7631711959838867
+2023-05-24 17:44:11,661 INFO root :Start cluculation: 1684917851.661774System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:44:16,504 INFO root :Start cluculation: 1684917856.504714System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:44:21,050 INFO root :total time: 4.547018766403198
+2023-05-24 17:44:21,784 INFO root :Start cluculation: 1684917861.7848973System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:44:26,332 INFO root :total time: 4.55001974105835
+2023-05-24 17:44:26,836 INFO root :Start cluculation: 1684917866.8367414System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:44:31,344 INFO root :total time: 4.509009838104248
+2023-05-24 17:44:31,875 INFO root :Start cluculation: 1684917871.8758707System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:44:38,251 INFO root :Start cluculation: 1684917878.2515316System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:44:50,770 INFO root :Start cluculation: 1684917890.770788System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:45:03,215 INFO root :Start cluculation: 1684917903.2152534System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:45:33,775 INFO root :Start cluculation: 1684917933.7753801System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:45:47,346 INFO root :Start cluculation: 1684917947.3464928System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:46:10,317 INFO root :Start cluculation: 1684917970.317741System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:54:01,068 INFO root :Start cluculation: 1684918441.0685124System: coupledLlg, Solver: rungeKutta
+2023-05-24 17:54:10,754 INFO root :Start cluculation: 1684918450.7542853System: coupledLlg, Solver: rungeKutta
+2023-05-24 18:15:29,470 INFO root :Start cluculation: 1684919729.4701025System: coupledLlg, Solver: rungeKutta
+2023-05-24 18:15:43,134 INFO root :Start cluculation: 1684919743.1349683System: coupledLlg, Solver: rungeKutta
+2023-05-24 18:15:53,698 INFO root :Start cluculation: 1684919753.698781System: coupledLlg, Solver: rungeKutta
+2023-05-25 16:59:02,547 INFO root :Start cluculation: 1685001542.5478644System: coupledLlg, Solver: rungeKutta
+2023-05-25 16:59:03,342 INFO root :total time: 0.806180477142334
+2023-05-25 16:59:04,115 INFO root :Start cluculation: 1685001544.1152155System: coupledLlg, Solver: rungeKutta
+2023-05-25 16:59:05,050 INFO root :total time: 0.9362096786499023
+2023-05-25 16:59:05,649 INFO root :Start cluculation: 1685001545.649559System: coupledLlg, Solver: rungeKutta
+2023-05-25 16:59:09,146 INFO root :total time: 3.5067861080169678
+2023-05-25 16:59:11,311 INFO root :Start cluculation: 1685001551.311828System: coupledLlg, Solver: rungeKutta
+2023-05-25 16:59:16,631 INFO root :total time: 6.253400802612305
+2023-05-25 17:18:29,432 INFO root :Start cluculation: 1685002709.432512System: coupledLlg, Solver: rungeKutta
+2023-05-25 17:18:30,228 INFO root :total time: 0.7981786727905273
+2023-05-25 17:18:30,978 INFO root :Start cluculation: 1685002710.978859System: coupledLlg, Solver: rungeKutta
+2023-05-25 17:18:31,985 INFO root :total time: 1.0072321891784668
+2023-05-25 17:18:32,668 INFO root :Start cluculation: 1685002712.667237System: coupledLlg, Solver: rungeKutta
+2023-05-25 17:18:36,165 INFO root :total time: 3.5078272819519043
+2023-05-25 17:19:22,586 INFO root :Start cluculation: 1685002762.586462System: coupledLlg, Solver: rungeKutta
+2023-05-25 17:22:07,526 INFO root :total time: 210.12199330329895
+2023-05-25 20:38:23,949 INFO root :Start cluculation: 1685014703.94954System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:24,735 INFO root :total time: 0.7901768684387207
+2023-05-25 20:38:39,964 INFO root :Start cluculation: 1685014719.9648995System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:40,762 INFO root :total time: 0.79817795753479
+2023-05-25 20:38:41,496 INFO root :Start cluculation: 1685014721.4967694System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:42,299 INFO root :total time: 0.8035845756530762
+2023-05-25 20:38:42,793 INFO root :Start cluculation: 1685014722.793465System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:43,591 INFO root :total time: 0.7991783618927002
+2023-05-25 20:38:44,104 INFO root :Start cluculation: 1685014724.1047585System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:44,901 INFO root :total time: 0.7981789112091064
+2023-05-25 20:38:45,401 INFO root :Start cluculation: 1685014725.4010491System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:46,329 INFO root :total time: 0.9292078018188477
+2023-05-25 20:38:46,905 INFO root :Start cluculation: 1685014726.9054043System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:47,832 INFO root :total time: 0.9282073974609375
+2023-05-25 20:38:48,408 INFO root :Start cluculation: 1685014728.4087412System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:49,335 INFO root :total time: 0.9282078742980957
+2023-05-25 20:38:49,907 INFO root :Start cluculation: 1685014729.9070766System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:50,873 INFO root :total time: 0.9672162532806396
+2023-05-25 20:38:51,456 INFO root :Start cluculation: 1685014731.4555662System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:54,891 INFO root :total time: 3.445791482925415
+2023-05-25 20:38:56,096 INFO root :Start cluculation: 1685014736.0969508System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:38:59,543 INFO root :total time: 3.457796096801758
+2023-05-25 20:39:00,818 INFO root :Start cluculation: 1685014740.818031System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:39:04,313 INFO root :total time: 3.5067858695983887
+2023-05-25 20:39:05,533 INFO root :Start cluculation: 1685014745.5330877System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:39:08,993 INFO root :total time: 3.472778081893921
+2023-05-25 20:39:10,557 INFO root :Start cluculation: 1685014750.5576856System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:39:14,943 INFO root :total time: 4.669676065444946
+2023-05-25 20:39:18,912 INFO root :Start cluculation: 1685014758.912187System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:39:23,283 INFO root :total time: 4.653042554855347
+2023-05-25 20:39:27,345 INFO root :Start cluculation: 1685014767.3453448System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:39:31,721 INFO root :total time: 4.6570844650268555
+2023-05-25 20:39:35,839 INFO root :Start cluculation: 1685014775.8396657System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:39:40,238 INFO root :total time: 4.685049772262573
+2023-05-25 20:39:45,038 INFO root :Start cluculation: 1685014785.0387266System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:39:50,353 INFO root :total time: 6.250400543212891
+2023-05-25 20:39:58,215 INFO root :Start cluculation: 1685014798.215129System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:40:03,600 INFO root :total time: 6.322416305541992
+2023-05-25 20:40:11,535 INFO root :Start cluculation: 1685014811.5351815System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:40:16,948 INFO root :total time: 6.339420795440674
+2023-05-25 20:40:25,007 INFO root :Start cluculation: 1685014825.0071855System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:40:30,506 INFO root :total time: 6.435442209243774
+2023-05-25 20:40:43,204 INFO root :Start cluculation: 1685014843.2047524System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:41:02,198 INFO root :total time: 25.060977935791016
+2023-05-25 20:41:25,571 INFO root :Start cluculation: 1685014885.5700967System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:41:43,841 INFO root :total time: 24.320354461669922
+2023-05-25 20:42:06,132 INFO root :Start cluculation: 1685014926.1326084System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:42:26,321 INFO root :total time: 26.083882331848145
+2023-05-25 20:42:49,834 INFO root :Start cluculation: 1685014969.834534System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:43:10,873 INFO root :total time: 26.92392325401306
+2023-05-25 20:44:11,729 INFO root :Start cluculation: 1685015051.7298443System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:46:50,131 INFO root :total time: 203.05177092552185
+2023-05-25 20:48:07,475 INFO root :Start cluculation: 1685015287.4758964System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:18,909 INFO root :Start cluculation: 1685015478.9091868System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:19,704 INFO root :total time: 0.7961783409118652
+2023-05-25 20:51:20,437 INFO root :Start cluculation: 1685015480.437529System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:21,245 INFO root :total time: 0.8101820945739746
+2023-05-25 20:51:21,738 INFO root :Start cluculation: 1685015481.7381601System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:22,549 INFO root :total time: 0.8121817111968994
+2023-05-25 20:51:23,071 INFO root :Start cluculation: 1685015483.071459System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:23,881 INFO root :total time: 0.8111815452575684
+2023-05-25 20:51:24,375 INFO root :Start cluculation: 1685015484.3757517System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:25,307 INFO root :total time: 0.9332089424133301
+2023-05-25 20:51:25,892 INFO root :Start cluculation: 1685015485.8926287System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:26,828 INFO root :total time: 0.9382100105285645
+2023-05-25 20:51:27,403 INFO root :Start cluculation: 1685015487.4037676System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:28,348 INFO root :total time: 0.9462118148803711
+2023-05-25 20:51:28,938 INFO root :Start cluculation: 1685015488.9387546System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:29,922 INFO root :total time: 0.9852211475372314
+2023-05-25 20:51:30,517 INFO root :Start cluculation: 1685015490.517821System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:33,297 INFO root :total time: 2.788005828857422
+2023-05-25 20:51:34,496 INFO root :Start cluculation: 1685015494.4962018System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:37,345 INFO root :total time: 2.857699394226074
+2023-05-25 20:51:38,623 INFO root :Start cluculation: 1685015498.6231866System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:41,443 INFO root :total time: 2.8298041820526123
+2023-05-25 20:51:42,700 INFO root :Start cluculation: 1685015502.7002704System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:45,529 INFO root :total time: 2.83752179145813
+2023-05-25 20:51:47,103 INFO root :Start cluculation: 1685015507.103143System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:50,651 INFO root :total time: 3.7874960899353027
+2023-05-25 20:51:54,767 INFO root :Start cluculation: 1685015514.7676656System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:51:58,372 INFO root :total time: 3.8432695865631104
+2023-05-25 20:52:02,552 INFO root :Start cluculation: 1685015522.5524964System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:52:06,126 INFO root :total time: 3.811542510986328
+2023-05-25 20:52:10,372 INFO root :Start cluculation: 1685015530.372937System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:52:14,012 INFO root :total time: 3.88887095451355
+2023-05-25 20:52:18,874 INFO root :Start cluculation: 1685015538.8745325System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:52:23,572 INFO root :total time: 5.516444206237793
+2023-05-25 20:52:31,670 INFO root :Start cluculation: 1685015551.670999System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:52:36,423 INFO root :total time: 5.563246250152588
+2023-05-25 20:52:44,570 INFO root :Start cluculation: 1685015564.5709686System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:52:49,352 INFO root :total time: 5.5942535400390625
+2023-05-25 20:52:57,594 INFO root :Start cluculation: 1685015577.594162System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:53:02,453 INFO root :total time: 5.674294471740723
+2023-05-25 20:53:14,382 INFO root :Start cluculation: 1685015594.382568System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:53:33,476 INFO root :total time: 24.447089910507202
+2023-05-25 20:53:56,565 INFO root :Start cluculation: 1685015636.565794System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:54:16,239 INFO root :total time: 25.628742456436157
+2023-05-25 20:54:38,525 INFO root :Start cluculation: 1685015678.5253916System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:54:58,727 INFO root :total time: 25.841893672943115
+2023-05-25 20:55:21,469 INFO root :Start cluculation: 1685015721.4690022System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:55:41,287 INFO root :total time: 25.429697275161743
+2023-05-25 20:56:39,692 INFO root :Start cluculation: 1685015799.6922576System: coupledLlg, Solver: rungeKutta
+2023-05-25 20:59:13,680 INFO root :total time: 196.79601764678955
+2023-05-25 21:00:28,128 INFO root :Start cluculation: 1685016028.1285243System: coupledLlg, Solver: rungeKutta
+2023-05-25 21:03:04,648 INFO root :total time: 197.73785495758057
+2023-05-25 21:04:20,478 INFO root :Start cluculation: 1685016260.478709System: coupledLlg, Solver: rungeKutta
+2023-05-25 21:06:55,051 INFO root :total time: 196.35295152664185
+2023-05-25 21:08:10,889 INFO root :Start cluculation: 1685016490.8895686System: coupledLlg, Solver: rungeKutta
+2023-05-25 21:10:46,605 INFO root :total time: 198.0820963382721
+2023-09-28 09:12:25,759 INFO root :Start cluculation: 1695859945.7592154System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:26,567 INFO root :total time: 0.8243036270141602
+2023-09-28 09:12:27,515 INFO root :Start cluculation: 1695859947.5152829System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:28,319 INFO root :total time: 0.80519700050354
+2023-09-28 09:12:28,796 INFO root :Start cluculation: 1695859948.7965846System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:29,599 INFO root :total time: 0.8044126033782959
+2023-09-28 09:12:30,062 INFO root :Start cluculation: 1695859950.0621076System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:30,864 INFO root :total time: 0.8031795024871826
+2023-09-28 09:12:31,332 INFO root :Start cluculation: 1695859951.3320944System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:32,253 INFO root :total time: 0.9346578121185303
+2023-09-28 09:12:32,824 INFO root :Start cluculation: 1695859952.8244348System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:33,746 INFO root :total time: 0.9232113361358643
+2023-09-28 09:12:34,369 INFO root :Start cluculation: 1695859954.3697903System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:35,291 INFO root :total time: 0.9222118854522705
+2023-09-28 09:12:35,850 INFO root :Start cluculation: 1695859955.850132System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:36,774 INFO root :total time: 0.9257164001464844
+2023-09-28 09:12:37,349 INFO root :Start cluculation: 1695859957.3499765System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:38,448 INFO root :total time: 1.1026544570922852
+2023-09-28 09:12:39,857 INFO root :Start cluculation: 1695859959.8579602System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:41,016 INFO root :total time: 1.1631364822387695
+2023-09-28 09:12:42,433 INFO root :Start cluculation: 1695859962.4338446System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:43,536 INFO root :total time: 1.1062533855438232
+2023-09-28 09:12:45,066 INFO root :Start cluculation: 1695859965.0669274System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:46,175 INFO root :total time: 1.112248182296753
+2023-09-28 09:12:47,694 INFO root :Start cluculation: 1695859967.6945946System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:50,010 INFO root :total time: 2.4423234462738037
+2023-09-28 09:12:55,199 INFO root :Start cluculation: 1695859975.1999218System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:12:57,510 INFO root :total time: 2.4075381755828857
+2023-09-28 09:13:02,684 INFO root :Start cluculation: 1695859982.684042System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:13:05,011 INFO root :total time: 2.439925193786621
+2023-09-28 09:13:10,184 INFO root :Start cluculation: 1695859990.1842227System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:13:12,490 INFO root :total time: 2.408538341522217
+2023-09-28 09:13:17,843 INFO root :Start cluculation: 1695859997.843487System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:13:22,860 INFO root :total time: 5.518089294433594
+2023-09-28 09:13:32,957 INFO root :Start cluculation: 1695860012.957685System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:13:38,070 INFO root :total time: 5.659734010696411
+2023-09-28 09:13:48,555 INFO root :Start cluculation: 1695860028.5559518System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:13:54,635 INFO root :total time: 6.555516004562378
+2023-09-28 09:14:05,050 INFO root :Start cluculation: 1695860045.0509036System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:14:09,938 INFO root :total time: 5.397714138031006
+2023-09-28 09:14:23,890 INFO root :Start cluculation: 1695860063.8907351System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:14:55,626 INFO root :total time: 35.912408113479614
+2023-09-28 09:15:22,370 INFO root :Start cluculation: 1695860122.3701115System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:15:54,543 INFO root :total time: 36.41992998123169
+2023-09-28 09:16:21,532 INFO root :Start cluculation: 1695860181.532664System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:16:53,304 INFO root :total time: 35.85724639892578
+2023-09-28 09:17:20,760 INFO root :Start cluculation: 1695860240.7601347System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:17:53,831 INFO root :total time: 37.308542013168335
+2023-09-28 09:18:46,353 INFO root :Start cluculation: 1695860326.3537729System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:21:00,234 INFO root :total time: 164.72969579696655
+2023-09-28 09:22:17,030 INFO root :Start cluculation: 1695860537.030079System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:24:25,029 INFO root :total time: 157.5640368461609
+2023-09-28 09:25:36,839 INFO root :Start cluculation: 1695860736.8398364System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:28:04,161 INFO root :total time: 176.6395661830902
+2023-09-28 09:29:21,781 INFO root :Start cluculation: 1695860961.781024System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:31:41,247 INFO root :total time: 170.60688710212708
+2023-09-28 09:36:09,057 INFO root :Start cluculation: 1695861369.0577834System: coupledLlg, Solver: rungeKutta
+2023-09-28 09:45:34,504 INFO root :total time: 784.4737010002136
+2023-09-28 09:50:51,748 INFO root :Start cluculation: 1695862251.7487316System: coupledLlg, Solver: rungeKutta
+2023-09-28 10:00:29,262 INFO root :total time: 799.9986665248871
+2023-09-28 10:05:36,789 INFO root :Start cluculation: 1695863136.7887414System: coupledLlg, Solver: rungeKutta
+2023-09-28 10:15:31,380 INFO root :total time: 811.6751003265381
+2023-09-28 10:20:43,268 INFO root :Start cluculation: 1695864043.268218System: coupledLlg, Solver: rungeKutta
+2023-09-28 10:30:39,456 INFO root :total time: 819.7883372306824
+2023-11-29 14:15:58,718 INFO root :Start cluculation: 1701234958.7184498System: coupledLlg, Solver: rungeKutta
+2023-11-29 14:16:00,141 INFO root :total time: 1.4549813270568848
+2023-11-29 14:16:01,551 INFO root :Start cluculation: 1701234961.551879System: coupledLlg, Solver: rungeKutta
+2023-11-29 14:16:03,161 INFO root :total time: 1.6119441986083984
+2023-11-29 14:16:04,117 INFO root :Start cluculation: 1701234964.1178195System: coupledLlg, Solver: rungeKutta
+2023-11-29 14:16:06,022 INFO root :total time: 1.912144660949707
+2023-11-29 14:16:09,402 INFO root :Start cluculation: 1701234969.4020774System: coupledLlg, Solver: rungeKutta
+2023-11-29 14:16:17,402 INFO root :total time: 9.16547966003418
+2023-11-29 14:16:39,049 INFO root :Start cluculation: 1701234999.0493746System: coupledLlg, Solver: rungeKutta
+2023-11-29 14:17:35,722 INFO root :total time: 64.03986549377441
+2023-11-29 14:18:59,859 INFO root :Start cluculation: 1701235139.8594007System: coupledLlg, Solver: rungeKutta
+2023-11-29 14:22:51,222 INFO root :total time: 280.52045917510986
+2023-11-29 14:27:36,878 INFO root :Start cluculation: 1701235656.878852System: coupledLlg, Solver: rungeKutta
+2023-11-29 14:37:39,904 INFO root :total time: 824.3331780433655
