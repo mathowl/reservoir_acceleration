@@ -177,6 +177,6 @@ if __name__ == "__main__":
     time.sleep(1)
 
     for N in [10,100,1_000,2_500,5_000,10_000]: 
-        for i in range(0,1):
+        for i in range(0,4):
             torch.cuda.empty_cache()
             main(N) 
