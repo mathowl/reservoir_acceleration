@@ -1,14 +1,14 @@
 This repo contains the code to reproduce the experiments for the NIPS MLNCP paper: 
 
 
-
+```
 @article{dejong2023mlncp,
   title={Virtual reservoir acceleration for CPU and GPU: Case study for coupled spin-torque oscillator reservoir},
   author={de Jong, Thomas G and Akashi, Nozomi and Taniguchi, Tomohiro and Notsu, Hirofumi and Nakajima, Kohei},
   journal={ML with New Compute Paradigms Workshop at NeurIPS },
   year={2023}
 }
-
+```
 
 
 
